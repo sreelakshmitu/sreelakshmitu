@@ -53,6 +53,10 @@ Skills:
 - Solar Energy
 - Environmental Sustainability
 
+![solar powered system 2](https://github.com/sreelakshmitu/sreelakshmitu/assets/166573357/060ae8b7-c11d-4623-8d7d-69979e1e2e13)
+![solar powered system 1](https://github.com/sreelakshmitu/sreelakshmitu/assets/166573357/077a6067-40fe-4335-98a2-f153d004ffbc)
+
+
 ---
 
 Feel free to explore these projects and their associated skills. Contributions and feedback are welcome!

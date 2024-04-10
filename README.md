@@ -41,6 +41,10 @@ Skills:
 - Digital Image Processing
 - Project Planning
 
+![smart seperate bin 1](https://github.com/sreelakshmitu/sreelakshmitu/assets/166573357/1b70a7fe-3e5a-4e6c-bd80-cef3262ef856)
+![smart seperate bin 2](https://github.com/sreelakshmitu/sreelakshmitu/assets/166573357/46610552-67c7-4db3-8436-c357753a4804)
+![smart seperate bin 3](https://github.com/sreelakshmitu/sreelakshmitu/assets/166573357/968568a6-8168-4460-b0c4-cc2e9214385f)
+
 ---
 
 ## The Solar Powered Smart Mask and Gloves Disposable Unit

@@ -52,6 +52,8 @@ It combines personal protective equipment (PPE) with smart technology for enhanc
 Skills:
 - Solar Energy
 - Environmental Sustainability
+
+  
 ![solar powered system 2](https://github.com/sreelakshmitu/sreelakshmitu/assets/166573357/ea921252-d012-41f1-888d-aba556e962ba)
 ![solar powered system 1](https://github.com/sreelakshmitu/sreelakshmitu/assets/166573357/dc6123c0-4e9c-4010-ace6-f7959ea94d8b)
 
